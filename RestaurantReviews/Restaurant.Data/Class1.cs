@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RestaurantReviews
+namespace Restaurant.Data
 {
     public class Class1
     {
