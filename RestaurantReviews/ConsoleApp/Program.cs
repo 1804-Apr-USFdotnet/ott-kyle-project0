@@ -31,7 +31,6 @@ Please choose from the following options:
 5. Enter a restaurant name for their average rating
 6. Show the top three restaurants based on ratings
 0. To exit");
-                logger.Log(LogLevel.Info, "TEST");
                 var choice = Console.ReadLine();
                 if (choice == "1")
                 {
